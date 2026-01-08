@@ -25,26 +25,22 @@ A full-stack Hospital Management System built using the MERN stack — **MongoDB
    ```bash
    cd backend
    npm install
+   npm start
 
 3.**Frontend Setup**
    ```bash
   cd ../frontend
   npm install
+  npm start
 
-4.***Run the app***
-a. **Run Backend**
-    cd backend
-    npm start
-b.**Run Frontend**
-    cd frontend
-    npm start
+ ## 📌 Usage
+Open your browser and navigate to http://localhost:3000
+.
+Use the frontend interface to add, view, and manage patients, doctors, and appointments.
 
-## 📌 Usage
+## 🤝 Contributing
 
-Open your browser and navigate to the React app (usually http://localhost:3000). Use the frontend UI to add or manage patients, doctors, and appointments.
-
-## 📌 Contributing
-
+Contributions are welcome!
 Feel free to open issues or submit pull requests to improve features, UI, or documentation.
 
 
