@@ -33,11 +33,9 @@ A full-stack Hospital Management System built using the MERN stack — **MongoDB
 
 4.***Run the app***
 a. **Run Backend**
-    ```bash
     cd backend
     npm start
 b.**Run Frontend**
-    ```bash
     cd frontend
     npm start
 
