@@ -22,18 +22,22 @@ A full-stack Hospital Management System built using the MERN stack — **MongoDB
    git clone https://github.com/Shruti-Gorhe/Hospital-management-system-MERN-stack.git
    
 2. **Backend Setup**
+   ```bash
    cd backend
    npm install
 
 3.**Frontend Setup**
+   ```bash
   cd ../frontend
   npm install
 
 4.***Run the app***
 a. **Run Backend**
+    ```bash
     cd backend
     npm start
 b.**Run Frontend**
+    ```bash
     cd frontend
     npm start
 
