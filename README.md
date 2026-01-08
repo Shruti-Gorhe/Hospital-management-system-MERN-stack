@@ -15,15 +15,6 @@ A full-stack Hospital Management System built using the MERN stack — **MongoDB
 - **APIs:** RESTful endpoints for CRUD operations  
 (*You can customize this section based on your actual implementation*)
 
-## 📁 Project Structure  
-root
-├── backend/ # Server, APIs
-├── frontend/ # React UI
-├── .gitignore
-├── package.json
-└── README.md
-
-
 ## 🔧 Installation Instructions
 
 1. **Clone the repository**
